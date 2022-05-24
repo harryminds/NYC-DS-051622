@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+<<<<<<< HEAD
+=======
+# ds store 
+
+*.DS_Store
+
+>>>>>>> upstream/main
 # Distribution / packaging
 .Python
 build/
@@ -127,6 +134,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 #DS files
 *.DS_Store
+=======
+>>>>>>> upstream/main
